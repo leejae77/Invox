@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "484634982521",
+    "project_id": "invox-974fd",
+    "storage_bucket": "invox-974fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484634982521:android:5c138c15c88175929a7ca8",
+        "android_client_info": {
+          "package_name": "com.invox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484634982521-7c5mo7hcq680e8ukdhln9kov8rllj9l0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.invox",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "484634982521-h3f9gsfuajo6tklq8u54c2mfet1crn0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSzCcxWRlwJ1RzKmunH0QaN9al1vm2TV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484634982521-h3f9gsfuajo6tklq8u54c2mfet1crn0r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "484634982521-27m2tcbbjdsccvv7nk8edpgv4lg1r74j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.Invox"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
